@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pig_Latin_Translator/1.0.0": {
+        "runtime": {
+          "Pig_Latin_Translator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pig_Latin_Translator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

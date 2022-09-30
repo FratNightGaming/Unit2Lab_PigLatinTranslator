@@ -1,0 +1,15 @@
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.csproj.AssemblyReference.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.AssemblyInfoInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.AssemblyInfo.cs
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.csproj.CoreCompileInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\bin\Debug\net6.0\Pig_Latin_Translator.exe
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\bin\Debug\net6.0\Pig_Latin_Translator.deps.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\bin\Debug\net6.0\Pig_Latin_Translator.runtimeconfig.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\bin\Debug\net6.0\Pig_Latin_Translator.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\bin\Debug\net6.0\Pig_Latin_Translator.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\refint\Pig_Latin_Translator.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\Pig_Latin_Translator.genruntimeconfig.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 2\Pig_Latin_Translator\obj\Debug\net6.0\ref\Pig_Latin_Translator.dll
